@@ -52,6 +52,5 @@ public class Endereco {
         if (dados.complemento() != null) {
             this.complemento = dados.complemento();
         }
-
     }
 }
